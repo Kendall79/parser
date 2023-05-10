@@ -1,4 +1,4 @@
 # parser
 
 ## Compiler
-MSVC2010 & GCC 5.11
+MSVC2010 & GCC 4
